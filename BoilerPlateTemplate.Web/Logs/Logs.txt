@@ -11,3 +11,16 @@ DEBUG 2014-09-03 09:09:34,039 [1    ] Abp.Modules.AbpModuleLoader              -
 DEBUG 2014-09-03 09:09:34,040 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: BoilerPlateTemplate.BoilerPlateTemplateWebApiModule, BoilerPlateTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 DEBUG 2014-09-03 09:09:34,040 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: BoilerPlateTemplate.Web.BoilerPlateTemplateWebModule, BoilerPlateTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 DEBUG 2014-09-03 09:09:34,398 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-09-03 16:30:48,771 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-09-03 16:30:49,527 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.1.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-03 16:30:49,528 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.1.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-03 16:30:49,530 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.1.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-03 16:30:49,536 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Web.AbpWebModule, Abp.Web, Version=0.3.1.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-03 16:30:49,536 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.1.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-03 16:30:49,538 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.1.2, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-03 16:30:49,552 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: BoilerPlateTemplate.BoilerPlateTemplateCoreModule, BoilerPlateTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-03 16:30:49,553 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: BoilerPlateTemplate.BoilerPlateTemplateApplicationModule, BoilerPlateTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-03 16:30:49,553 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: BoilerPlateTemplate.BoilerPlateTemplateDataModule, BoilerPlateTemplate.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-03 16:30:49,554 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: BoilerPlateTemplate.BoilerPlateTemplateWebApiModule, BoilerPlateTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-03 16:30:49,554 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: BoilerPlateTemplate.Web.BoilerPlateTemplateWebModule, BoilerPlateTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-03 16:30:49,919 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
